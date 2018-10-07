@@ -37,10 +37,7 @@
 						<showWarnings>true</showWarnings>
 					</configuration>
 				</plugin>
-			</plugins>
-		</pluginManagement>
-		<plugins>
-			<plugin>
+				<plugin>
 				      <distributionManagement>
     					<repository>
      					 <uniqueVersion>false</uniqueVersion>
@@ -50,7 +47,8 @@
       					 <layout>default</layout>
     					</repository>
     					</distributionManagement>
-			</plugin>
-		</plugins>
+			       </plugin>
+			</plugins>
+		</pluginManagement>
 	</build>
 </project>
