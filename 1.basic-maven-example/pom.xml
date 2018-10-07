@@ -39,8 +39,8 @@
 				</plugin>
 			</plugins>
 		</pluginManagement>
-		</plugins>
-			</plugins>
+		<plugins>
+			<plugin>
 				      <distributionManagement>
     					<repository>
      					 <uniqueVersion>false</uniqueVersion>
@@ -50,7 +50,7 @@
       					 <layout>default</layout>
     					</repository>
     					</distributionManagement>
-			</plugins>
+			</plugin>
 		</plugins>
 	</build>
 </project>
